@@ -1,5 +1,5 @@
 # ss-subscribe
-Python3编写的ss订阅脚本
+Python3编写的shadowsocks订阅脚本
 
 ## 项目组成
 - ss-subscribe.py (脚本主文件)
