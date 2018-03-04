@@ -21,10 +21,13 @@ Python3编写的ss订阅脚本
 {
  "servers": [{
    "url": "https://raw.githubusercontent.com/Fndroid/ss-subscribe/master/test/subscrib-data"
-  }]
+  },{
+   "url": "你的订阅地址"
+  }]
 }
 ```
 3. 在shadowsocks目录下,打开cmd,执行以下命令
 ```bash
-python ss-subscribe.py
+python3 ss-subscribe.py
 ```
+4. 重启shadowsocks
