@@ -1,5 +1,5 @@
 # ss-subscribe
-Python3编写的shadowsocks订阅脚本
+Python3编写的Shadowsocks订阅脚本
 
 ## 项目组成
 - ss-subscribe.py (脚本主文件)
@@ -31,4 +31,4 @@ Python3编写的shadowsocks订阅脚本
 python3 ss-subscribe.py
 ```
 ![](https://github.com/Fndroid/ss-subscribe/blob/master/imgs/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20180304114651.png?raw=true)
-### 4. 重启shadowsocks
+### 4. 重启Shadowsocks
