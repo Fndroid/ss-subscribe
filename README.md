@@ -15,8 +15,8 @@ Python3编写的ss订阅脚本
 
 ## 如何使用
 
-1. 将ss-subscrib.py和ss-subscrib.json拷贝至shadowsocks文件夹下
-2. 在ss-subscribe.json文件中加入要订阅服务器的URL
+### 1. 将ss-subscrib.py和ss-subscrib.json拷贝至shadowsocks文件夹下
+### 2. 在ss-subscribe.json文件中加入要订阅服务器的URL
 ```json
 {
  "servers": [{
@@ -26,8 +26,8 @@ Python3编写的ss订阅脚本
   }]
 }
 ```
-3. 在shadowsocks目录下,打开cmd,执行以下命令
+### 3. 在shadowsocks目录下,打开cmd,执行以下命令
 ```bash
 python3 ss-subscribe.py
 ```
-4. 重启shadowsocks
+### 4. 重启shadowsocks
