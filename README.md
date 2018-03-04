@@ -1,10 +1,6 @@
 # ss-subscribe
 Python3编写的ss订阅脚本
 
-## 截图
-
-![](https://github.com/Fndroid/ss-subscribe/blob/master/imgs/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20180304114651.png?raw=true)
-
 ## 项目组成
 - ss-subscribe.py (脚本主文件)
 - ss-subscribe.json (脚本配置文件)
@@ -34,4 +30,5 @@ Python3编写的ss订阅脚本
 ```bash
 python3 ss-subscribe.py
 ```
+![](https://github.com/Fndroid/ss-subscribe/blob/master/imgs/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20180304114651.png?raw=true)
 ### 4. 重启shadowsocks
