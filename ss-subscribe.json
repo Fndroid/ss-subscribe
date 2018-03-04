@@ -1,0 +1,7 @@
+{
+	"servers": [
+		{
+			"url": "https://raw.githubusercontent.com/Fndroid/ss-subscribe/master/test/subscrib-data"
+		}
+	]
+}
